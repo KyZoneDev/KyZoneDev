@@ -7,14 +7,8 @@
   <a href="https://discord.gg/SF6fevrQ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://www.tiktok.com/users/KyZone61" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=Tiktok&logoColor=white" />
   </a>
 </p>
 
