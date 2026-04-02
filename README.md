@@ -4,8 +4,8 @@
   <a href="https://www.instagram.com/davamaludaseptia?igsh=MTVxenV6cWdsdGxkNA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://discord.gg/SF6fevrQ" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/glorfindell" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
