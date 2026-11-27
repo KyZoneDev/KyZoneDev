@@ -21,7 +21,9 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm KyZone </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, HTML, Bootstrap and more.
+  Hello There! <em><b> I'm KyZone </b></em>, a Systems Engineer student.
+  I enjoy learning new technologies and problem solving at Codeforces and Codechef.
+  Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, HTML, Bootstrap and more.
 </p>
 
 
